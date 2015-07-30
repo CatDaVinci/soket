@@ -121,95 +121,98 @@
       <excludeFolder url="file://$MODULE_DIR$/public/system" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.0.0-p645 [soket]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="actionview (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="active_model_serializers (v0.9.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activejob (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ast (v2.0.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="astrolabe (v1.3.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.10.5, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.1.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.9.1.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="daemons (v1.1.9, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="database_cleaner (v1.4.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.5, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="docile (v1.1.5, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="em-synchrony (v1.0.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="eventmachine (v1.0.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.5.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v4.5.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="factory_girl_rails (v4.5.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="faker (v1.4.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="faye-websocket (v0.8.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="globalid (v0.3.5, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="hiredis (v0.5.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.3.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.0.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="loofah (v2.0.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mail (v2.6.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mime-types (v2.6.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.7.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.11.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.6.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="parser (v2.2.2.6, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="powerpack (v0.1.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="pry-nav (v0.2.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="pry-rails (v0.3.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="puma (v2.12.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v1.0.6, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rainbow (v2.0.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="redis (v3.1.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="redis-objects (v1.0.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.0.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.0.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.0.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v3.0.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.0.4, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rubocop (v0.32.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.7.5, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.16, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="shoulda-matchers (v2.8.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="simplecov (v0.10.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="simplecov-html (v0.10.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="slop (v3.6.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets (v3.2.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.3.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.10, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thin (v1.6.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.5, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v2.5.3, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.2, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.7.1, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.4.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="websocket-rails (v0.7.0, RVM: ruby-2.0.0-p645) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="active_model_serializers (v0.9.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="angularjs-rails (v1.4.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.0.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="astrolabe (v1.3.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bower-rails (v0.10.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.10.5, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.1.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.9.1.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="daemons (v1.1.9, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="database_cleaner (v1.4.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.5, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="docile (v1.1.5, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="em-synchrony (v1.0.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="eventmachine (v1.0.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.5.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v4.5.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="factory_girl_rails (v4.5.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v1.4.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faye-websocket (v0.8.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="globalid (v0.3.5, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hiredis (v0.5.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.3.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.0.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="loofah (v2.0.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.6.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v2.6.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.7.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.11.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.6.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parser (v2.2.2.6, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="powerpack (v0.1.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-nav (v0.2.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-rails (v0.3.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-cors (v0.4.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v1.0.6, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-observers (v0.1.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rainbow (v2.0.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis (v3.1.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-objects (v1.0.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.0.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.0.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.0.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v3.0.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.0.4, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop (v0.32.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.7.5, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.16, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shoulda-matchers (v2.8.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov (v0.10.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov-html (v0.10.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="slop (v3.6.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets (v3.2.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.3.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.10, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thin (v1.6.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.5, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v2.5.3, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.2, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.7.1, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.4.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-rails (v0.7.0, RVM: ruby-2.0.0-p645 [soket]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />

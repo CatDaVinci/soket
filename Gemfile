@@ -44,9 +44,12 @@ group :development, :test do
   gem 'pry-rails'
   gem 'pry-nav'
   gem 'faker'
-  gem 'puma'
+  gem 'thin'
   gem 'rubocop'
 end
 
 gem 'active_model_serializers'
-
+gem 'rack-cors', :require => 'rack/cors'
+gem 'bower-rails', '~> 0.10.0'
+gem 'rails-observers'
+gem 'angularjs-rails'

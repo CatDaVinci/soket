@@ -21,4 +21,29 @@ RSpec.describe Api::V1::MessagesController, :type => :controller do
       end
     end
   end
+
+  describe 'POST Create' do
+    let(:message_attr) { attributes_for(:message) }
+    let(:create_request) { post :create, user_id: user.id, message: { body: message_attr[:body] } }
+    let(:create_response) { JSON.parse response.body }
+
+    context 'response' do
+      before { create_request }
+
+      it 'should have status 201' do
+        expect(response.status).to eq(201)
+      end
+
+      it 'should have message' do
+        expect(create_response['message']['body']).to eq message_attr[:body]
+        expect(create_response['message']['user_id']).to eq message_attr[:user_id]
+      end
+    end
+
+    context 'when message add' do
+      it 'should have new message' do
+        expect { create_request }.to change { Message.count }.by(1)
+      end
+    end
+  end
 end

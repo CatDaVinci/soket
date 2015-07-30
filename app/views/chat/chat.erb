@@ -1,0 +1,33 @@
+<div class="user-first">
+  <ul>
+    <li ng-repeat="msg in messages">
+        <p><b>{{msg.message.user_id}}</b> {{msg.message.body}}</p>
+    </li>
+  </ul>
+  <form ng-submit='sendFirst()'>
+    <input type="text" ng-model="messageByFirst"/>
+    <input type="submit" value="Send"/>
+  </form>
+</div>
+<div class="user-second">
+  <ul>
+    <li ng-repeat="msg in messages">
+      <p><b>{{msg.message.user_id}}</b> {{msg.message.body}}</p>
+    </li>
+  </ul>
+  <form ng-submit='sendSecond()'>
+    <input type="text" ng-model="messageBySecond"/>
+    <input type="submit" value="Send"/>
+  </form>
+</div>
+<div class="user-third">
+  <ul>
+    <li ng-repeat="msg in messages">
+      <p><b>{{msg.message.user_id}}</b> {{msg.message.body}}</p>
+    </li>
+  </ul>
+  <form ng-submit='sendThird()'>
+    <input type="text" ng-model="messageByThird"/>
+    <input type="submit" value="Send"/>
+  </form>
+</div>

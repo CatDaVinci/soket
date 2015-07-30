@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app='chat'>
 <head>
   <title>Soket</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
@@ -7,8 +7,8 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
-<%= yield %>
-
+<div id="container" ng-controller="chatCtrl">
+  <%= yield %>
+</div>
 </body>
 </html>
